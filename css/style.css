@@ -26,6 +26,14 @@
   -webkit-backdrop-filter: blur(10px);
 }
 
+.carousel-control-prev{
+    background: rgba(0,0,0,0.1);
+}
+
+.carousel-control-next{
+    background: rgba(0,0,0,0.1);
+}
+
 
 html{
     font-size: 62.5%;
